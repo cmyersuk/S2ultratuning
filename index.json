@@ -1,0 +1,17 @@
+{
+  "formatVersion": 1,
+  "crafts": {
+    "s2-ultra": {
+      "craftName": "S2 Ultra",
+      "logs": {
+        "6803b908f8730b0d": {
+          "name": "S2 Ultra",
+          "craftName": "S2 Ultra",
+          "path": "crafts/s2-ultra/6803b908f8730b0d",
+          "updated": "2026-10-12T20:52:39.965Z",
+          "entryCount": 1
+        }
+      }
+    }
+  }
+}
