@@ -14,6 +14,16 @@
       "addedAt": "2026-10-12T20:52:36.565Z",
       "calculatedDateTime": true,
       "hasImage": true
+    },
+    {
+      "id": "01e4b5ca71dd14e3",
+      "timestamp": "2026-10-14T19:04:03.976Z",
+      "craftName": "S2 Ultra",
+      "config": "Board information: \"GSKY GOOSKY_F4MINI\"\nCraft name: \"S2 Ultra\"\nFirmware date: \"Jul 25 2025 06:36:57\"\nFirmware revision: \"Rotorflight 4.5.1 (e69823a) STM32F405\"\nLog start datetime: \"0000-01-01T00:00:00.000+00:00\"\nProduct: \"Blackbox flight data recorder by Nicholas Sherlock\"\nacc_1G: 2048\nacc_hardware: 0\nacc_lpf_hz: 1000\nbaro_hardware: 1\ncollectiveRange: [-1167,1167]\ncurrentMeterOffset: 0\ncurrentMeterScale: 400\ncyclic_coupling: [50,6,30]\ndeadband: 2\ndebug_axis: 0\ndebug_mode: 31\ndshot_bidir: 1\ndyn_notch_count: 3\ndyn_notch_max_hz: 245\ndyn_notch_min_hz: 50\ndyn_notch_q: 40\nerror_decay: [150,12]\nerror_decay_ground: 25\nerror_limit: [50,50,60]\nfast_pwm_protocol: 6\nfeatures: 1811940360\nfields_mask: 2092287\nfilter_process_denom: 2\nfirmware: \"4.5\"\nfirmwarePatch: 1\nfirmwareType: 5\nfirmwareVersion: \"4.5.1\"\nframeIntervalI: 64\nframeIntervalPDenom: 2\nframeIntervalPNum: 1\ngovPID: [25,65,2,13,50]\ngyroScale: 1\ngyro_cal_on_first_arm: 0\ngyro_lowpass2_hz: 50\ngyro_lowpass_dyn_hz: [0,0]\ngyro_lowpass_hz: 150\ngyro_lpf: 0\ngyro_notch_cutoff: [0,0]\ngyro_notch_hz: [0,0]\ngyro_rpm_notch_center_pitch: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]\ngyro_rpm_notch_center_roll: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]\ngyro_rpm_notch_center_yaw: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]\ngyro_rpm_notch_min_hz: 50\ngyro_rpm_notch_preset: 0\ngyro_rpm_notch_q_pitch: [80,80,30,100,100,100,0,0,0,0,0,0,0,0,0,0]\ngyro_rpm_notch_q_roll: [80,60,30,100,100,100,100,0,0,0,0,0,0,0,0,0]\ngyro_rpm_notch_q_yaw: [80,80,40,100,100,100,100,0,0,0,0,0,0,0,0,0]\ngyro_rpm_notch_source_pitch: [10,11,12,13,14,21,0,0,0,0,0,0,0,0,0,0]\ngyro_rpm_notch_source_roll: [10,11,12,13,14,21,22,0,0,0,0,0,0,0,0,0]\ngyro_rpm_notch_source_yaw: [10,11,12,13,14,21,22,0,0,0,0,0,0,0,0,0]\ngyro_soft2_type: 0\ngyro_soft_type: 1\ngyro_sync_denom: 1\ngyro_to_use: 0\nhsi_gain: [26,28]\nhsi_limit: [80,80]\niterm_relax_cutoff: [18,18,18]\niterm_relax_type: 2\nlevelPID: [40,55,40,75]\nlooptime: 250\nmag_hardware: 1\nmaxthrottle: 2000\nminthrottle: 1070\nmotor_pwm_rate: 250\npid_process_denom: 2\npiro_compensation: 1\npitchBW: [100,40,40]\npitchPID: [55,100,12,100,22]\npitch_compensation: 0\nrateAccelLimit: 0\nrates: [0,0,0]\nrates_type: 2\nrc_expo: [40,40,30]\nrc_rates: [20,20,40]\nresponse_time: [15,15,4]\nrollBW: [100,40,40]\nrollPID: [50,100,12,100,15]\nserialrx_provider: 2\nunsynced_fast_pwm: 0\nvbatmaxcellvoltage: 430\nvbatmincellvoltage: 330\nvbatref: 1250\nvbatscale: 110\nvbatwarningcellvoltage: 350\nyawBW: [125,50,50]\nyawPID: [62,100,30,20,35]\nyaw_deadband: 2\nyaw_inertia_precomp: [10,250]\nyaw_precomp: [18,15,50]\nyaw_stop_gain: [120,80]\nyaw_tta: [50,60]",
+      "notes": "",
+      "addedAt": "2026-10-15T16:52:34.660Z",
+      "calculatedDateTime": true,
+      "hasImage": true
     }
   ],
   "deletedEntries": []
