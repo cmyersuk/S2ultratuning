@@ -1,0 +1,15 @@
+{
+  "formatVersion": 1,
+  "logId": "a1d125afb3f028e6",
+  "name": "470LM",
+  "craftName": "470LM",
+  "description": "tree 470LM",
+  "createdDate": "2026-11-21T13:39:23.921Z",
+  "entryFiles": [
+    {
+      "id": "5d28cf3b74969281",
+      "hash": "bdc97d1601853243"
+    }
+  ],
+  "deletedEntries": []
+}

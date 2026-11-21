@@ -12,6 +12,18 @@
           "entryCount": 2
         }
       }
+    },
+    "470lm": {
+      "craftName": "470LM",
+      "logs": {
+        "a1d125afb3f028e6": {
+          "name": "470LM",
+          "craftName": "470LM",
+          "path": "crafts/470lm/a1d125afb3f028e6",
+          "updated": "2026-11-21T13:39:27.954Z",
+          "entryCount": 1
+        }
+      }
     }
   }
 }
