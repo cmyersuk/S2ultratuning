@@ -55,17 +55,18 @@
       "hash": "e68a225f91995dae"
     },
     {
-      "id": "3ed4c95ff179ce05",
-      "hash": "628ab5f27def018c"
-    },
-    {
-      "id": "40ce3ac8fae75f46",
-      "hash": "c5def7a9f47d9edb"
-    },
-    {
       "id": "0108b685a4f62097",
       "hash": "a3cb981c5f138669"
     }
   ],
-  "deletedEntries": []
+  "deletedEntries": [
+    {
+      "id": "40ce3ac8fae75f46",
+      "deletedAt": "2026-11-23T13:43:05.338Z"
+    },
+    {
+      "id": "3ed4c95ff179ce05",
+      "deletedAt": "2026-11-23T13:43:07.683Z"
+    }
+  ]
 }
